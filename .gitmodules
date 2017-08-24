@@ -1,0 +1,12 @@
+[submodule "resources"]
+	path = resources
+	url = https://github.com/freshollie/toontown-infinite-resources.git
+[submodule "src"]
+	path = src
+	url = https://github.com/freshollie/toontown-infinite-source.git
+[submodule "panda3d"]
+	path = panda3d
+	url = https://github.com/Astron/panda3d.git
+[submodule "Astron"]
+	path = Astron
+	url = https://github.com/Astron/Astron.git
