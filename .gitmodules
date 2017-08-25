@@ -6,7 +6,7 @@
 	url = https://github.com/freshollie/toontown-infinite-source.git
 [submodule "panda3d"]
 	path = panda3d
-	url = https://github.com/Astron/panda3d.git
+	url = https://github.com/freshollie/panda3d.git
 [submodule "Astron"]
 	path = Astron
-	url = https://github.com/Astron/Astron.git
+	url = https://github.com/freshollie/Astron.git
