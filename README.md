@@ -13,6 +13,10 @@ Building will build the astrond executable, and the panda3d library for your ope
 
 `build.bat`
 
+Windows doesn't build astron.exe and just uses the already provided repository version.
+
+If you dont trust this, you will have to follow the build instructions and build your own.
+
 ## Executing
 
 ### Sever
