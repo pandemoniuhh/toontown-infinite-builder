@@ -1,4 +1,4 @@
-#!/bash/sh
+#!/bin/sh
 
 # (C) Freshollie - Oliver Bell - 2017
 
