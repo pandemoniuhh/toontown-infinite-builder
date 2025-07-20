@@ -3,10 +3,10 @@
 	url = https://github.com/freshollie/toontown-infinite-resources.git
 [submodule "src"]
 	path = src
-	url = https://github.com/freshollie/toontown-infinite-source.git
+	url = https://github.com/pandemoniuhh/toontown-infinite.git
 [submodule "panda3d"]
 	path = panda3d
-	url = https://github.com/freshollie/panda3d.git
+	url = https://github.com/pandemoniuhh/panda3d.git
 [submodule "Astron"]
 	path = Astron
 	url = https://github.com/freshollie/Astron.git
