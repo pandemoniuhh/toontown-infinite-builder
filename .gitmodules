@@ -4,6 +4,7 @@
 [submodule "src"]
 	path = src
 	url = https://github.com/pandemoniuhh/toontown-infinite.git
+    branch = enhancements/panda3d-1.10.15-port
 [submodule "panda3d"]
 	path = panda3d
 	url = https://github.com/pandemoniuhh/panda3d.git
